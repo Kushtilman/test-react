@@ -1,0 +1,38 @@
+.header {
+  background: #bab2b2;
+
+  a,
+  .admin {
+    color: #fff;
+    font-weight: 600;
+    transition: color .3s;
+
+    &:hover,
+    &.active {
+      color: brown;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .admin {
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+  }
+}
+
+.nav-bar {
+  a {
+    margin-right: 20px;
+  }
+}
+
+.admin-info {
+  a {
+    display: flex;
+    justify-content: flex-end;
+  }
+}

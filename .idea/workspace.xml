@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59e893d2-f6ae-449a-ae6b-bf2947404c6c" name="Default Changelist" comment="#4 - added eslint" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/login/login.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/user-create/user-create.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/user-delete/user-delete.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/user-list/user-list.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/store/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/store/usersReducer.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24mMVRZpeqxWSy38zXo7cmodDdB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/train/react/react-redux",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.1.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\js\react\test-app\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\train\react\test-react" />
+      <recent name="D:\js\react\test-app\src\assets\svg" />
+      <recent name="D:\js\react\test-app\src\assets\scss" />
+      <recent name="D:\js\react\test-app\src\assets\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e893d2-f6ae-449a-ae6b-bf2947404c6c" name="Default Changelist" comment="" />
+      <created>1644231331730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644231331730</updated>
+      <workItem from="1644231334512" duration="1080000" />
+      <workItem from="1644482863429" duration="2722000" />
+      <workItem from="1644566012000" duration="12241000" />
+      <workItem from="1644745076919" duration="34500000" />
+      <workItem from="1644929412900" duration="10808000" />
+      <workItem from="1644942058960" duration="63613000" />
+      <workItem from="1645184845381" duration="63026000" />
+      <workItem from="1645541921086" duration="33174000" />
+      <workItem from="1646818629810" duration="3775000" />
+      <workItem from="1646894217813" duration="22715000" />
+      <workItem from="1647327287548" duration="19630000" />
+      <workItem from="1648019747460" duration="618000" />
+      <workItem from="1648457800225" duration="27974000" />
+      <workItem from="1648725859382" duration="937000" />
+      <workItem from="1648733671724" duration="10486000" />
+      <workItem from="1649057360121" duration="5030000" />
+      <workItem from="1649246525226" duration="6093000" />
+      <workItem from="1649312205649" duration="3638000" />
+      <workItem from="1649318274193" duration="7736000" />
+      <workItem from="1649397410467" duration="14061000" />
+      <workItem from="1649658579829" duration="4000" />
+      <workItem from="1649659485605" duration="2000" />
+      <workItem from="1649660594784" duration="5522000" />
+      <workItem from="1649676796202" duration="29484000" />
+      <workItem from="1649843254087" duration="7560000" />
+      <workItem from="1649915669528" duration="22313000" />
+      <workItem from="1650350136177" duration="16583000" />
+      <workItem from="1650458563284" duration="5500000" />
+      <workItem from="1650528767596" duration="26491000" />
+      <workItem from="1650729010813" duration="27911000" />
+      <workItem from="1650964928784" duration="693000" />
+      <workItem from="1651042592744" duration="647000" />
+      <workItem from="1651067671636" duration="10378000" />
+      <workItem from="1651213610091" duration="4370000" />
+      <workItem from="1651223208064" duration="101000" />
+      <workItem from="1651227909927" duration="9363000" />
+      <workItem from="1651470476268" duration="47989000" />
+      <workItem from="1651668711240" duration="239000" />
+      <workItem from="1653287661073" duration="1502000" />
+      <workItem from="1657525917866" duration="7417000" />
+      <workItem from="1658218118639" duration="32745000" />
+      <workItem from="1658734022744" duration="621000" />
+      <workItem from="1659524099670" duration="23089000" />
+      <workItem from="1659607340551" duration="25908000" />
+      <workItem from="1660198388834" duration="1901000" />
+      <workItem from="1660469799529" duration="622000" />
+      <workItem from="1660563321342" duration="646000" />
+      <workItem from="1660564705592" duration="744000" />
+      <workItem from="1660747128691" duration="2659000" />
+      <workItem from="1660752630348" duration="21859000" />
+      <workItem from="1661248408390" duration="683000" />
+      <workItem from="1670489027297" duration="2609000" />
+      <workItem from="1670493225220" duration="995000" />
+    </task>
+    <task id="LOCAL-00001" summary="#2 - added refresh token">
+      <created>1649424872029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649424872029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#3 - private router">
+      <created>1650528245755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650528245755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#4 - added eslint">
+      <created>1651664430898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651664430898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#2 - added refresh token" />
+    <MESSAGE value="#3 - private router" />
+    <MESSAGE value="#4 - added eslint" />
+    <option name="LAST_COMMIT_MESSAGE" value="#4 - added eslint" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
